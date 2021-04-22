@@ -1,2 +1,2 @@
-# rexgalarza8507.github.io
+# muffinrecipes.github.io
 this my senior frontend test honor
